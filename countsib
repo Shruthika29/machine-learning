@@ -1,0 +1,8 @@
+brotherNames = ("deepakkumarveeravarapu", "lakshmikanthveeravarapu", "harshvardhanveeravarapu","bruce","sunilveeravarapu","Jyothir")
+sisterNames=("leelavaishnavi","tanmay","aradhya","vishnupriya")
+# Adding to siblings
+SiblingsMixed=sisterNames+brotherNames
+# printing results after appending both brother and sisters.
+print("SIBLINGS =",SiblingsMixed)
+# printing total length of siblings
+print(len(SiblingsMixed))
